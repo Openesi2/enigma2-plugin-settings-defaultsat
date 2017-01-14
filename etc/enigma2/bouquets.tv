@@ -1,34 +1,35 @@
-#NAME Bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.dbe00.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED01.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED00.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED02.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED03.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED04.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED05.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED06.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED07.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED08.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED09.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0A.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0B.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0C.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0D.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0E.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED0F.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED10.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED11.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED12.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED13.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED14.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED15.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED16.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED17.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED18.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED19.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1A.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1B.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1C.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1D.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1E.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.ED1F.tv
+#NAME User - Bouquets (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtekdbe00.tv" ORDER BY bouquet
+#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.DTTtek00.tv
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek00.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek02.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek03.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek04.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek05.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek06.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek07.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek08.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek09.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek4K.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0A.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0B.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0C.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0D.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0E.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0F.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek10.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek11.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek12.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek13.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek14.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek15.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek16.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek17.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek18.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek19.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1A.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1B.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1C.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1D.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1E.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek1F.tv" ORDER BY bouquet
