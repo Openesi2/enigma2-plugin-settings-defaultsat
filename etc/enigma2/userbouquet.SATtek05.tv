@@ -1,5 +1,9 @@
 #NAME [Cultura]                     Nemoxyz-SAT&DTT-tv ©
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:2c:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:42:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Sky Italia SDversion ----------
 #SERVICE 1:0:1:e39:16a8:fbff:820000:0:0:0:
 #SERVICE 1:0:1:fda:1e14:fbff:820000:0:0:0:
@@ -23,7 +27,11 @@
 #SERVICE 1:0:1:10fe:1644:fbff:820000:0:0:0:
 #SERVICE 1:0:1:fe3:1e14:fbff:820000:0:0:0:
 #SERVICE 1:0:1:2fbf:2db4:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:2d:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:43:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Sky Italia HDversion ----------
 #SERVICE 1:0:19:379c:14b4:fbff:820000:0:0:0:
 #SERVICE 1:0:19:dba:1af4:fbff:820000:0:0:0:
@@ -36,17 +44,29 @@
 #SERVICE 1:0:19:db9:1af4:fbff:820000:0:0:0:
 #SERVICE 1:0:19:2b42:1900:fbff:820000:0:0:0:
 #SERVICE 1:0:1:2fc4:2db4:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:2e:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:44:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- TivùSat ----------
 #SERVICE 1:0:1:ceb:1518:13e:820000:0:0:0:
 #SERVICE 1:0:1:d4e:1450:13e:820000:0:0:0:
 #SERVICE 1:0:1:cec:1518:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:2f:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Italiani ----------
 #SERVICE 1:0:1:4254:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:424a:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:6e0:2f44:13e:820000:0:0:0:
 #SERVICE 1:64:30:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:45:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Italiani ----------
+#SERVICE 1:0:1:4254:3db8:13e:820000:0:0:0:
+#SERVICE 1:0:1:6e0:2f44:13e:820000:0:0:0:
+#SERVICE 1:64:46:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Orange-Bis-TeleSat- Mobisat ----------
 #SERVICE 1:0:1:1cf:26ac:13f:820000:0:0:0:
 #SERVICE 1:0:1:1ca:26ac:13f:820000:0:0:0:
@@ -55,7 +75,11 @@
 #SERVICE 1:0:1:1c7:26ac:13f:820000:0:0:0:
 #SERVICE 1:0:1:144:3e1c:13f:820000:0:0:0:
 #SERVICE 1:0:1:145:3e1c:13f:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:31:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:47:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- NC+ ----------
 #SERVICE 1:0:1:32df:190:13e:820000:0:0:0:
 #SERVICE 1:0:1:3d5e:2c88:13e:820000:0:0:0:
@@ -92,7 +116,11 @@
 #SERVICE 1:0:1:423e:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:10e2:3e8:13e:820000:0:0:0:
 #SERVICE 1:0:16:10e7:3e8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:32:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:48:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Cyfrowy Polsat ----------
 #SERVICE 1:0:1:290d:1edc:71:820000:0:0:0:
 #SERVICE 1:0:1:1cc2:1ce8:71:820000:0:0:0:
@@ -104,18 +132,29 @@
 #SERVICE 1:0:1:1cca:1ce8:71:820000:0:0:0:
 #SERVICE 1:0:1:1ccd:1ce8:71:820000:0:0:0:
 #SERVICE 1:0:1:4280:2bc0:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:33:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:49:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Nova ----------
 #SERVICE 1:0:1:172:1c84:13e:820000:0:0:0:
 #SERVICE 1:0:1:15f:1c84:13e:820000:0:0:0:
 #SERVICE 1:0:1:17d:1c84:13e:820000:0:0:0:
 #SERVICE 1:0:1:1bbf:17d4:13e:820000:0:0:0:
 #SERVICE 1:0:1:169:1c84:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:64:34:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:4a:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv
 #DESCRIPTION ---------- Others ----------
 #SERVICE 1:0:1:299:3c8c:13e:820000:0:0:0:
 #SERVICE 1:0:1:7d2:22c4:13e:820000:0:0:0:
 #SERVICE 1:0:1:2067:24b8:13e:820000:0:0:0:
 #SERVICE 1:0:1:6ad:3138:13e:820000:0:0:0:
 #SERVICE 1:0:1:366a:c8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek05.tv
 #SERVICE 1:0:1:369:1a:888:820000:0:0:0:
+=======
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek05.tv

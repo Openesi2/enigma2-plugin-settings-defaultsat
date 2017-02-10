@@ -1,5 +1,9 @@
 #NAME [Sport]                                        
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:19:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:2f:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Sky Italia SDversion ----------
 #SERVICE 1:0:1:2ab1:1838:fbff:820000:0:0:0:
 #SERVICE 1:0:1:2aa8:1838:fbff:820000:0:0:0:
@@ -37,7 +41,11 @@
 #SERVICE 1:0:82:2aac:1838:fbff:820000:0:0:0:
 #SERVICE 1:0:82:2ab7:1838:fbff:820000:0:0:0:
 #SERVICE 1:0:1:2d5a:1a90:fbff:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1a:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:30:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Sky Italia HDversion ----------
 #SERVICE 1:0:19:f4f:2198:fbff:820000:0:0:0:
 #SERVICE 1:0:19:1036:1d4c:fbff:820000:0:0:0:
@@ -69,7 +77,11 @@
 #SERVICE 1:0:1:3311:190:13e:820000:0:0:0:
 #SERVICE 1:0:19:1091:2008:fbff:820000:0:0:0:
 #SERVICE 1:0:82:3454:2710:fbff:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1b:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:31:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- TivùSat ----------
 #SERVICE 1:0:1:4533:30d4:13e:820000:0:0:0:
 #SERVICE 1:0:1:452f:30d4:13e:820000:0:0:0:
@@ -77,7 +89,11 @@
 #SERVICE 1:0:1:ce5:1518:13e:820000:0:0:0:
 #SERVICE 1:0:1:7d3:22c4:13e:820000:0:0:0:
 #SERVICE 1:0:1:2ca1:2580:fbff:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1c:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:32:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Italiani ----------
 #SERVICE 1:0:1:2fab:2db4:13e:820000:0:0:0:
 #SERVICE 1:0:1:4236:2f44:13e:820000:0:0:0:
@@ -88,7 +104,11 @@
 #SERVICE 1:0:1:4232:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:4236:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:4237:3db8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1d:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:33:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Orange-Bis-TeleSat- Mobisat ----------
 #SERVICE 1:0:1:19a:3264:13e:820000:0:0:0:
 #SERVICE 1:0:1:19b:3264:13e:820000:0:0:0:
@@ -98,7 +118,11 @@
 #SERVICE 1:0:1:1a5:26ac:13f:820000:0:0:0:
 #SERVICE 1:0:1:beb:20d0:13e:820000:0:0:0:
 #SERVICE 1:0:1:bec:20d0:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1e:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:34:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- NC+ ----------
 #SERVICE 1:0:1:32de:190:13e:820000:0:0:0:
 #SERVICE 1:0:1:3b6a:12c:13e:820000:0:0:0:
@@ -126,14 +150,22 @@
 #SERVICE 1:0:1:3dd0:640:13e:820000:0:0:0:
 #SERVICE 1:0:1:10df:3e8:13e:820000:0:0:0:
 #SERVICE 1:0:1:3d5f:2c88:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:1f:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:35:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Cyfrowy Polsat ----------
 #SERVICE 1:0:1:c1d:1e78:71:820000:0:0:0:
 #SERVICE 1:0:1:3330:3390:71:820000:0:0:0:
 #SERVICE 1:0:1:c24:1e78:71:820000:0:0:0:
 #SERVICE 1:0:1:3331:3390:71:820000:0:0:0:
 #SERVICE 1:0:1:35e9:c8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:20:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:36:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Nova ----------
 #SERVICE 1:0:1:3c94:1bbc:13e:820000:0:0:0:
 #SERVICE 1:0:1:3c90:1bbc:13e:820000:0:0:0:
@@ -154,7 +186,11 @@
 #SERVICE 1:0:1:18a:1c84:13e:820000:0:0:0:
 #SERVICE 1:0:1:175:1c84:13e:820000:0:0:0:
 #SERVICE 1:0:1:168:1c84:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:21:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:37:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Eurosport ----------
 #SERVICE 1:0:1:3606:c8:13e:820000:0:0:0:
 #SERVICE 1:0:1:35fe:c8:13e:820000:0:0:0:
@@ -215,7 +251,11 @@
 #SERVICE 1:0:1:363e:c8:13e:820000:0:0:0:
 #SERVICE 1:0:1:363d:c8:13e:820000:0:0:0:
 #SERVICE 1:0:1:35ec:c8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek03.tv
 #SERVICE 1:64:22:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:38:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek03.tv
 #DESCRIPTION ---------- Others ----------
 #SERVICE 1:0:1:251e:13ef:13e:820000:0:0:0:
 #SERVICE 1:0:1:2523:13ef:13e:820000:0:0:0:

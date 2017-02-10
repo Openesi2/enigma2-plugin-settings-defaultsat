@@ -1,5 +1,9 @@
 #NAME [Europe]
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek1A.tv
 #SERVICE 1:64:db:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:d9:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek1A.tv
 #DESCRIPTION ---------- United Kingdom ----------
 #SERVICE 1:0:1:8a2:1f4:13e:820000:0:0:0:
 #SERVICE 1:0:1:7:578:13e:82acce:0:0:0:
@@ -9,6 +13,7 @@
 #SERVICE 1:0:1:1c86:332c:13e:820000:0:0:0:
 #SERVICE 1:0:1:200c:24b8:13e:820000:0:0:0:
 #SERVICE 1:0:1:200b:24b8:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek1A.tv
 #SERVICE 1:64:dc:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- France ----------
 #SERVICE 1:0:1:1c9a:332c:13e:820000:0:0:0:
@@ -16,12 +21,22 @@
 #DESCRIPTION ---------- Spain ----------
 #SERVICE 1:0:1:1efc:21fc:13e:820000:0:0:0:
 #SERVICE 1:64:de:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:da:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- France ----------
+#SERVICE 1:0:1:1c9a:332c:13e:820000:0:0:0:
+#SERVICE 1:64:db:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Spain ----------
+#SERVICE 1:0:1:1efc:21fc:13e:820000:0:0:0:
+#SERVICE 1:64:dc:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek1A.tv
 #DESCRIPTION ---------- Germany ----------
 #SERVICE 1:0:1:e26:708:c8:820000:0:0:0:
 #SERVICE 1:0:1:1f4b:319c:13e:820000:0:0:0:
 #SERVICE 1:0:1:1f7c:319c:13e:820000:0:0:0:
 #SERVICE 1:0:1:25f:319c:13e:820000:0:0:0:
 #SERVICE 1:0:1:262:319c:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek1A.tv
 #SERVICE 1:64:df:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Holland ----------
 #SERVICE 1:0:1:439f:2cec:13e:820000:0:0:0:
@@ -29,6 +44,15 @@
 #DESCRIPTION ---------- Portugal ----------
 #SERVICE 1:0:1:a:2bc:13e:820000:0:0:0:
 #SERVICE 1:64:e1:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:dd:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Holland ----------
+#SERVICE 1:0:1:439f:2cec:13e:820000:0:0:0:
+#SERVICE 1:64:de:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Portugal ----------
+#SERVICE 1:0:1:a:2bc:13e:820000:0:0:0:
+#SERVICE 1:64:df:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek1A.tv
 #DESCRIPTION ---------- Russia ----------
 #SERVICE 1:0:1:2065:24b8:13e:820000:0:0:0:
 #SERVICE 1:0:1:2010:24b8:13e:820000:0:0:0:
@@ -61,6 +85,7 @@
 #SERVICE 1:0:1:8b7:1f4:13e:820000:0:0:0:
 #SERVICE 1:0:1:1f9:384:13e:820000:0:0:0:
 #SERVICE 1:0:1:8a0:1f4:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek1A.tv
 #SERVICE 1:64:e2:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Ukraine ----------
 #SERVICE 1:0:1:439d:2cec:13e:820000:0:0:0:
@@ -81,6 +106,27 @@
 #DESCRIPTION ---------- Grecia ----------
 #SERVICE 1:0:1:29e6:3cf0:13e:820000:0:0:0:
 #SERVICE 1:64:e8:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:e0:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Ukraine ----------
+#SERVICE 1:0:1:439d:2cec:13e:820000:0:0:0:
+#SERVICE 1:64:e1:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Estonia ----------
+#SERVICE 1:0:1:35ea:1388:13e:820000:0:0:0:
+#SERVICE 1:64:e2:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Slovenia ----------
+#SERVICE 1:0:1:c83:2328:13e:820000:0:0:0:
+#SERVICE 1:64:e3:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Polska ----------
+#SERVICE 1:0:1:132b:33f4:13e:820000:0:0:0:
+#SERVICE 1:64:e4:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Romania ----------
+#SERVICE 1:0:1:132c:33f4:13e:820000:0:0:0:
+#SERVICE 1:64:e5:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Grecia ----------
+#SERVICE 1:0:1:29e6:3cf0:13e:820000:0:0:0:
+#SERVICE 1:64:e6:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek1A.tv
 #DESCRIPTION ---------- Ciprus ----------
 #SERVICE 1:0:1:30e:1b58:13e:820000:0:0:0:
 #SERVICE 1:0:1:1d2e:2fa8:13e:820000:0:0:0:

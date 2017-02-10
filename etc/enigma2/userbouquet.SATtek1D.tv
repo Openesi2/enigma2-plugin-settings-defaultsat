@@ -1,7 +1,14 @@
 #NAME [America]
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek1D.tv
 #SERVICE 1:64:10f:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- Brazil ----------
 #SERVICE 1:0:1:1:1fa4:13e:820000:0:0:0:
 #SERVICE 1:64:110:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:10b:0:0:0:0:0:0:0:
+#DESCRIPTION ---------- Brazil ----------
+#SERVICE 1:0:1:1:1fa4:13e:820000:0:0:0:
+#SERVICE 1:64:10c:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek1D.tv
 #DESCRIPTION ---------- Venezuela ----------
 #SERVICE 1:0:1:35a9:1388:13e:820000:0:0:0:

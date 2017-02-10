@@ -51,6 +51,10 @@
 #DESCRIPTION #Intrattenimento#---------------------------------
 #SERVICE 1:0:1:9:1770:110:820000:0:0:0:
 #SERVICE 1:0:1:7:1770:110:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtekdbe00.tv
+=======
+#SERVICE 1:0:1:cee:1518:13e:820000:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtekdbe00.tv
 #SERVICE 1:0:1:10e4:1644:fbff:820000:0:0:0:
 #SERVICE 1:0:1:5bd:320:fbff:820000:0:0:0:
 #SERVICE 1:0:1:2bac:19c8:fbff:820000:0:0:0:
@@ -82,19 +86,28 @@
 #SERVICE 1:0:1:e50:320:fbff:820000:0:0:0:
 #SERVICE 1:0:1:e4b:16a8:fbff:820000:0:0:0:
 #SERVICE 1:0:1:3bca:64:fbff:820000:0:0:0:
-#SERVICE 1:0:1:424a:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:4254:3db8:13e:820000:0:0:0:
 #SERVICE 1:0:1:cec:1518:13e:820000:0:0:0:
 #SERVICE 1:64:8:0:0:0:0:0:0:0:
 #DESCRIPTION #Musica#------------------------------------------
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtekdbe00.tv
 #SERVICE 1:0:1:e28:708:c8:820000:0:0:0:
+=======
+#SERVICE 1:0:1:4242:3db8:13e:820000:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtekdbe00.tv
 #SERVICE 1:0:1:29d0:3cf0:13e:820000:0:0:0:
-#SERVICE 1:0:1:2c8:1b58:13e:820000:0:0:0:
+#SERVICE 1:0:1:e28:708:c8:820000:0:0:0:
 #SERVICE 1:0:1:3a0c:1fa4:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtekdbe00.tv
 #SERVICE 1:0:1:29e5:3cf0:13e:820000:0:0:0:
 #SERVICE 1:64:9:0:0:0:0:0:0:0:
 #DESCRIPTION #Ragazzi#-----------------------------------------
 #SERVICE 1:0:1:cee:1518:13e:820000:0:0:0:
+=======
+#SERVICE 1:0:1:2c8:1b58:13e:820000:0:0:0:
+#SERVICE 1:64:9:0:0:0:0:0:0:0:
+#DESCRIPTION #Ragazzi#-----------------------------------------
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtekdbe00.tv
 #SERVICE 1:0:1:6:1770:110:820000:0:0:0:
 #SERVICE 1:0:1:d:1770:110:820000:0:0:0:
 #SERVICE 1:64:a:0:0:0:0:0:0:0:

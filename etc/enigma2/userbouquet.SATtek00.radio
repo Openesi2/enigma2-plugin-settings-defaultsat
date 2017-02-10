@@ -1,6 +1,9 @@
 #NAME Radio TivùSat
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek00.radio
 #SERVICE 1:64:118:0:0:0:0:0:0:0:
 #DESCRIPTION ---------- TivùSat ----------
+=======
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek00.radio
 #SERVICE 1:0:2:cef:1518:13e:820000:0:0:0:
 #SERVICE 1:0:2:cf0:1518:13e:820000:0:0:0:
 #SERVICE 1:0:2:cf1:1518:13e:820000:0:0:0:
@@ -43,12 +46,15 @@
 #SERVICE 1:0:2:dde:319c:13e:820000:0:0:0:
 #SERVICE 1:0:2:dfc:319c:13e:820000:0:0:0:
 #SERVICE 1:0:2:e06:319c:13e:820000:0:0:0:
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5:etc/enigma2/userbouquet.SATtek00.radio
 #SERVICE 1:64:119:0:0:0:0:0:0:0:
+=======
+#SERVICE 1:64:114:0:0:0:0:0:0:0:
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523:etc/enigma2/userbouquet.SATtek00.radio
 #DESCRIPTION ---------- Italiani ----------
 #SERVICE 1:0:2:216a:3070:13e:820000:0:0:0:
 #SERVICE 1:0:2:216b:3070:13e:820000:0:0:0:
 #SERVICE 1:0:2:216c:3070:13e:820000:0:0:0:
-#SERVICE 1:0:2:2143:3070:13e:820000:0:0:0:
 #SERVICE 1:0:2:2e4:1b58:13e:820000:0:0:0:
 #SERVICE 1:0:2:e36:1c20:13e:820000:0:0:0:
 #SERVICE 1:0:2:e36:708:c8:820000:0:0:0:

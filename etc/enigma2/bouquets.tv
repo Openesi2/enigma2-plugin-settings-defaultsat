@@ -1,7 +1,12 @@
 #NAME User - Bouquets (TV)
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtekdbe00.tv" ORDER BY bouquet
 #SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.DTTtek00.tv
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek00.tv" ORDER BY bouquet
+=======
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0A.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek09.tv" ORDER BY bouquet
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek02.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek03.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek04.tv" ORDER BY bouquet
@@ -9,9 +14,14 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek06.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek07.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek08.tv" ORDER BY bouquet
+<<<<<<< 9f21f318b0c848033bca3ada9e4e9866780a0be5
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek09.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek4K.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0A.tv" ORDER BY bouquet
+=======
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek00.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek4K.tv" ORDER BY bouquet
+>>>>>>> 27e24e218926838c7b8473387bc38450b40ac523
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0B.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0C.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek0D.tv" ORDER BY bouquet
