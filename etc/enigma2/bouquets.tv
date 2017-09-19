@@ -1,46 +1,34 @@
-#NAME Bouquets (TV)
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.main_italian.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.general.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.movies.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.pay_per_view.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sport.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.racing.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.series.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.comedy.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.entertainment.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.talk_shows.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.real_tv.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.cooking.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.lifestyle.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.teleshopping.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.children.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.music.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.cultural.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.documentaries.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.history.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.technology.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.travel.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.health.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.news.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.business.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.politics.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.weather.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.erotic.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.porn.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.chat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.voyance.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.game.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.regional.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.religious.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.various.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.presentations.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.fta_services.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.sat_pointer.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.by_morpheus883_2017.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_hotbird13.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_bis-orangefr.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_cyfrowypolsat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_nc-orangepl.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_nova.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_rai-mediaset-tivusat.tv
-#SERVICE: 1:7:1:0:0:0:0:0:0:0:userbouquet.130e_skyitalia.tv
+#NAME User - Bouquets (TV)
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek000.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:userbouquet.DTTtek00.tv
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek001.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek002.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek003.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek004.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek005.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek006.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek007.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek008.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek009.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek010.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek011.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek012.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek013.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek014.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek015.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek016.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek017.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek018.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek019.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek020.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek021.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek022.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek023.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek024.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek025.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek026.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek027.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek028.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek029.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek030.tv" ORDER BY bouquet
+#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.SATtek031.tv" ORDER BY bouquet
